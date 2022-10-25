@@ -2,7 +2,7 @@
    {
        "id": "6357ca7f1dfde8517db93971",
        "courseID": "PH-101",
-       "picture": "http://placehold.it/32x32",
+       "picture": "https://ibb.co/Y099Fn6",
        "price": 99,
        "creadit": 4,
        "courseName": "Mechanics And Properties of Matter",
@@ -29,7 +29,7 @@
            "commodo mollit laboris pariatur sunt ipsum mollit",
            "conservation of energy, momentum, and angular momentum. ",
            "the rotation of rigid bodiest",
-           " motion in a gravitational field."
+           "motion in a gravitational field."
        ],
        "instructor": [
            {
@@ -44,7 +44,7 @@
    {
        "id": "6357ca7fe87b93844cb41af5",
        "courseID": "PH-203",
-       "picture": "http://placehold.it/32x32",
+       "picture": "https://ibb.co/NKKDCpV",
        "price": 99,
        "creadit": 4,
        "courseName": "Classical Mechanics",
@@ -83,33 +83,33 @@
    },
    {
        "id": "6357ca7fad92d37ef8d688cf",
-       "courseID": "PH-11",
-       "picture": "http://placehold.it/32x32",
+       "courseID": "PH-102",
+       "picture": "https://ibb.co/By08ycc",
        "price": 99,
        "creadit": 4,
-       "courseName": "Tommie Huber",
-       "prerequisites": "Santana Ballard",
-       "difficulty": "male",
+       "courseName": "Electromagnetism",
+       "prerequisites": "Basics Mathmatical Physics",
+       "difficulty": "Intermediate",
        "duration": "Approximatily 12-14 week",
        "timeCommitment": "10-12 houre per week",
-       "courseSummery": "Incididunt elit cupidatat enim adipisicing non cillum incididunt enim. Consequat cillum cillum ea officia fugiat adipisicing nulla ut ad aliquip quis dolor ex. Proident laborum excepteur ut laborum Lorem in ad adipisicing ut cupidatat. Proident mollit ex culpa veniam velit sit proident voluptate aliqua enim. Occaecat id enim proident veniam aliquip. Sit ea commodo culpa magna fugiat ad est duis dolore labore sint. Adipisicing fugiat est officia nostrud consectetur.\r\n",
+       "courseSummery": "A course for physical science and pre-engineering majors. Topics include electric and magnetic fields, a.c. and d.c. circuits, geometrical optics, wave motion and physical optics. Three hours lecture, two and a half hours lab. Prerequisites: PHYS 105, concurrent enrollment in calculus II or consent. Offered annually.This course is the second in a series on Electromagnetism beginning with Electromagnetism I (8.02 or 8.022). It is a survey of basic electromagnetic phenomena: electrostatics; magnetostatics; electromagnetic properties of matter; time-dependent electromagnetic fields; Maxwell’s equations; electromagnetic waves; emission, absorption, and scattering of radiation; and relativistic electrodynamics and mechanics.",
        "chapter": [
-           "deserunt",
-           "magna",
-           "cupidatat",
-           "ad",
-           "occaecat",
-           "culpa"
+           "Electric Fields and Stationary Charges",
+           "Magnetic Fields and Steady Currents",
+           "Electrodynamics",
+           "Maxwell’s Equation",
+           "Electromagnetic effects in simple materials",
+           "Electromagnetic waves"
        ],
        "ratting": 4.9,
        "outcome":"On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
        "learning_outcome": [
-           "aliqua voluptate esse excepteur incididunt occaecat nulla",
-           "minim esse veniam dolore amet est ullamco",
-           "qui duis in fugiat adipisicing consequat dolor",
-           "Lorem elit tempor magna deserunt pariatur est",
-           "occaecat enim cillum esse qui laborum incididunt",
-           "in dolore tempor aliquip consectetur ex do"
+           "describe the electric field and potential, and related concepts, for stationary charges.",
+           "calculate electrostatic properties of simple charge distributions using Coulomb’s law, Gauss’s law and electric potential.",
+           "describe the magnetic field for steady currents and moving charges.",
+           "describe electromagnetic induction and related concepts, and make calculations using Faraday and Lenz’s laws.",
+           "describe the basic physical content of Maxwell’s laws in integral form",
+           "Derive Maxwell's equation set from the empirical laws of electromagnetism."
        ],
        "instructor": [
            {
@@ -123,33 +123,34 @@
    },
    {
        "id": "6357ca7f56090ed380cc0378",
-       "courseID": "PH-11",
-       "picture": "http://placehold.it/32x32",
+       "courseID": "PH-201",
+       "picture": "https://ibb.co/0CRd0Pp",
        "price": 99,
        "creadit": 4,
-       "courseName": "Melissa Ashley",
-       "prerequisites": "Margo Decker",
-       "difficulty": "female",
+       "courseName": "Fundamental Of Optics",
+       "prerequisites": "Bacics physics and Geomatri",
+       "difficulty": "Intermediate",
        "duration": "Approximatily 12-14 week",
        "timeCommitment": "10-12 houre per week",
-       "courseSummery": "Minim ea Lorem tempor sit excepteur consequat sunt pariatur est nisi ad mollit non cillum. Adipisicing ad ex quis adipisicing non Lorem laborum deserunt. Laborum ullamco laborum dolor ipsum ut quis velit voluptate aliquip. Incididunt reprehenderit proident elit nostrud eiusmod est cillum id et nostrud aute occaecat aliquip. Fugiat nostrud proident consequat ea in cillum. Ipsum sint ad ea cupidatat irure incididunt sit aliquip pariatur ad enim labore nulla.\r\n",
+       "courseSummery": "According to our local surveys generalized to the Egyptian population, there are approximately 20 million people in Egypt needing eye glasses. This course is to develop and promote the enrolled participants’ capacity to work as professional opticians within the team of eye care in integration with the roles of Ophthalmologist, Clinical Ophthalmic Assistant, and Ophthalmic Nurse. The enrolled participants are being prepared to meet the real market needs, and to gain a better recognition and have a market advantage through a mix of interactive sessions and practical applications of essential skills.",
        "chapter": [
-           "ad",
-           "sit",
-           "elit",
-           "sint",
-           "amet",
-           "mollit"
+           "Basic anatomy and physiology of the Eye",
+           "Basics of the Diseases of the Eye (Red & Blue Flags)",
+           "Geometric optics",
+           "Optics and Refractive States",
+           "Optical dispensing",
+           "Contact lenses",
+           "Fundamentals of optical sales management"
        ],
        "ratting": 4.9,
        "outcome":"On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
        "learning_outcome": [
-           "laboris pariatur esse est duis est incididunt",
-           "ut nulla occaecat laboris Lorem reprehenderit aute",
-           "eiusmod consequat non sunt ex velit laborum",
-           "enim occaecat ex sunt tempor dolor cupidatat",
-           "officia nisi esse commodo aute amet incididunt",
-           "adipisicing officia aliquip mollit exercitation dolore ad"
+           "Understand the basics of geometric optics",
+           "Conduct methods of assessing visual acuity and binocular status",
+           "Perform refraction assessment for all patients",
+           "Understand the fundamentals of optical sales management",
+           "Analyse simple examples of interference and diffraction phenomena",
+           "Apply the physics processes involved in producing laser radiation to solve simple problems"
        ],
        "instructor": [
            {
@@ -163,33 +164,31 @@
    },
    {
        "id": "6357ca7f8f3c323f06d48a36",
-       "courseID": "PH-11",
-       "picture": "http://placehold.it/32x32",
+       "courseID": "PH-301",
+       "picture": "https://ibb.co/bb22Kbz",
        "price": 99,
        "creadit": 4,
-       "courseName": "Cox Murray",
-       "prerequisites": "Willie Sanford",
-       "difficulty": "female",
-       "duration": "Approximatily 12-14 week",
+       "courseName": "Quantum Mechanics",
+       "prerequisites": "Mathematics,Dynamics, Vibrations & Waves,",
+       "difficulty": "Advance",
+       "duration": "Approximatily 16-18 week",
        "timeCommitment": "10-12 houre per week",
        "courseSummery": "Nisi ullamco adipisicing dolore eiusmod voluptate ipsum cupidatat officia ea commodo anim. Ex nulla ipsum elit proident deserunt et proident ut. Pariatur voluptate veniam velit sunt aliqua excepteur magna reprehenderit laborum ea. Ad cillum nisi incididunt consequat aute cupidatat tempor consequat dolore anim pariatur enim aute.\r\n",
        "chapter": [
-           "et",
-           "est",
-           "adipisicing",
-           "cupidatat",
-           "exercitation",
-           "ea"
+           "Basic Elements of Quantum Mechanics",
+           "Commutators and compatibility ",
+           "The Harmonic Oscillator",
+           "Orbital angular momentum",
+           "Quantum gases"
        ],
        "ratting": 4.9,
        "outcome":"On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
        "learning_outcome": [
-           "quis amet qui magna voluptate excepteur deserunt",
-           "ex aliquip officia voluptate labore quis eu",
-           "officia do culpa commodo ullamco sit fugiat",
-           "officia nulla in commodo sunt labore nisi",
-           "in anim quis minim veniam elit incididunt",
-           "laborum quis aliquip occaecat nostrud magna id"
+           "Use quantum mechanics to describe the hydrogen atom.",
+           "Use quantum mechanics to describe the properties of one-electron at",
+           "Deal with operators and solve eigenvalue problems in quantum mechanics",
+           "Demonstrate an understanding of the implications of the indistinguishability of particles for systems of non-interacting quantum particles",
+           "Explain the physical origin of Bose-Einstein condensation, to characterize it quantitatively, and to explain the experiments confirming Bose-Einstein condensation"
        ],
        "instructor": [
            {
@@ -203,33 +202,33 @@
    },
    {
        "id": "6357ca7f81737a1c77b6245c",
-       "courseID": "PH-11",
-       "picture": "http://placehold.it/32x32",
+       "courseID": "PH-403",
+       "picture": "https://ibb.co/L5CNn0v",
        "price": 99,
        "creadit": 4,
-       "courseName": "Wise Carpenter",
-       "prerequisites": "Elisabeth Alvarado",
-       "difficulty": "female",
+       "courseName": "Quantum Physics and Relativity",
+       "prerequisites": "Quantum Mechanics",
+       "difficulty": "Advance",
        "duration": "Approximatily 12-14 week",
        "timeCommitment": "10-12 houre per week",
-       "courseSummery": "Veniam consequat eiusmod eu mollit laboris. Nulla elit magna non incididunt commodo laboris eiusmod ullamco. Ad consectetur enim excepteur deserunt cupidatat labore officia eu dolore laboris qui dolor et.\r\n",
+       "courseSummery": "General Theory of Relativity or the theory of relativistic gravitation is the one most famous branch of theoretical physics. Everybody heard about black holes, gravitational waves and expanding Universe. The goal of this online course is to introduce you into this theory and to give the precise meaning to these notions. Einstein's General Relativity and Gravitation is a graduate-level course taught at UC Irvine as Physics 255. This course covers diverse topics in general relativity, including an introduction to Einstein’s theory of gravitation, tensor analysis, Einstein’s field equations, astronomical tests of Einstein’s theory, and gravitational waves.",
        "chapter": [
-           "exercitation",
-           "aute",
-           "amet",
-           "commodo",
-           "deserunt",
-           "voluptate"
+           "Introduction to the Course, and Einstein in Context",
+           "Events, Clocks, and Reference Frames",
+           "Ethereal Problems and Solutions",
+           "The Weirdness Begins",
+           "Spacetime Switches",
+           "Paradoxes to Ponder"
        ],
        "ratting": 4.9,
        "outcome":"On completion successful students will be able to explain the role of, and solve problems involving, the following concepts ",
        "learning_outcome": [
-           "veniam aliqua culpa anim cillum eu consectetur",
-           "in ullamco esse non labore minim officia",
-           "sit voluptate ea consectetur aute culpa nulla",
-           "labore dolore do nulla nostrud culpa et",
-           "laborum ut laborum quis dolor anim in",
-           "in reprehenderit dolore minim in eiusmod amet"
+           "define the notion of an inertial frame and the concept of an observer. ",
+           "state the principles of Special Relativity and use them to derive time dilation and length contraction.",
+           "perform calculations using the Lorentz transformation formulae",
+           "perform calculations using four-vectors. ",
+           "use the ideas of wave-particle duality and the uncertainty princple to solve problems in quantum mechanics. ",
+           "perform calculations using the quantum wave- function of a particle moving in one dimension, including making use of the momentum operator. "
        ],
        "instructor": [
            {
